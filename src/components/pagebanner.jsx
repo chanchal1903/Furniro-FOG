@@ -1,3 +1,4 @@
+import React from 'react';
 const PageBanner = ({ title, bgClass }) => (
     <section className={`page-banner ${bgClass}`}>
         <h1>{title}</h1>

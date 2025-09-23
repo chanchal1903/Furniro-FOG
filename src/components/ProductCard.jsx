@@ -1,3 +1,4 @@
+import React from 'react';
 const ProductCard = ({ img, tag, name, description, price, oldPrice }) => {
     const isNew = tag === 'New';
     const isDiscount = tag && !isNew;

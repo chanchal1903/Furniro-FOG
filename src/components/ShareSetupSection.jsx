@@ -1,3 +1,4 @@
+import React from 'react';
 const ShareSetupSection = () => (
      <section className="share-setup-section section-padding text-center">
          <h2 className="section-title">Share your setup with</h2>

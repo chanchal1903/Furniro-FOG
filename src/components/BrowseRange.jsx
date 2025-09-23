@@ -1,3 +1,4 @@
+import React from 'react';
 const BrowseRange = () => (
     <section className="browse-range section-padding">
         <div className="container text-center">

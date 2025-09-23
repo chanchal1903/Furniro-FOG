@@ -1,4 +1,5 @@
 // Inspiration Section
+import React from 'react';
 const InspirationSection = () => (
     <section className="inspiration-section">
         <div className="inspiration-content">

@@ -1,3 +1,4 @@
+import React from 'react';
 import PageBanner from './cartbanner'
 import ProductCard from './ProductCard';
 import FeaturesSection from './featuresection';

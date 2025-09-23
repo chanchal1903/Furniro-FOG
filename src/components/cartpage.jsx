@@ -1,3 +1,4 @@
+import React from 'react';
 import CartBanner from "./cartbanner";
 import FeaturesSection from "./featuresection";
 const CartPage = () => (

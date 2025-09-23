@@ -1,3 +1,4 @@
+import React from 'react';
 const FeaturesSection = () => (
     <section className="features-section section-padding">
         <div className="container features-container">

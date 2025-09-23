@@ -1,4 +1,5 @@
 // Footer Component
+import React from 'react';
 const Footer = () => (
     <footer className="footer section-padding">
         <div className="container footer-grid">

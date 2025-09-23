@@ -1,4 +1,5 @@
 // Hero Section Component
+import React from 'react';
 const HeroSection = () => (
     <section className="hero-section">
         <div className="hero-content">

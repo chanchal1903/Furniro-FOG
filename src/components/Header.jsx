@@ -1,4 +1,5 @@
 // Header.js
+import React from 'react';
 const Header = ({ setView }) => (
   <header className="header">
     <div className="container">
